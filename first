@@ -1,9 +1,6 @@
 <!DOCTYPE html>
-<html lang="ch-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>第一个网页</title>
   </head>
   <body>
@@ -11,7 +8,6 @@
     <img style="background-color:white" border="2"
     src=https://www.runoob.com/try/demo_source/hackanm.gif alt="Computer man"
     width="80" height="80" />
-
     <p style="height: 10px; border: 10cm; font-size: 20px">
       哪有什么一夜成名？只不过是百炼成钢罢了！
     </p>
